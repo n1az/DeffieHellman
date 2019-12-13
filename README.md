@@ -1,5 +1,5 @@
-# DeffieHellman
-An OOP implementation of Deffie Hellman key exchange algorithm in python.
+# DiffieHellman
+An OOP implementation of Diffie Hellman key exchange algorithm in python.
 
 #everything is randomly selected and verified by taking the range of PRIME.
 
